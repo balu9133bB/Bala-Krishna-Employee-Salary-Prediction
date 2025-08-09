@@ -30,7 +30,7 @@
 
 
 # 🔗 Project Links
-📂 GitHub Repository: https://github.com/Pallavipesalavari/PALLAVI-Employee-Salary-Prediction.git
+📂 GitHub Repository: https://github.com/balu9133bB/Bala-Krishna-Employee-Salary-Prediction
 
 🌐 Live Web App (Streamlit): https://employee-salary-classification-web-app.streamlit.app/
   
