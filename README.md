@@ -102,15 +102,10 @@ An end-to-end **Streamlit-based ML application** featuring:
   
 * Importance of user experience in AI tools
 
-
-## 🏅 Internship Completion
-
-**Certificate:** Issued via **IBM SkillsBuild** & **Edunet Foundation**
-
-
 ## 🙌 Acknowledgements
+This project uses machine learning to analyze employee data and predict salaries accurately.
+It helps in understanding the impact of various factors on salary estimation.
 
-Special thanks to **Edunet Foundation** and **IBM SkillsBuild** for the valuable opportunity. This project helped enhance my **AI/ML, software engineering,** and **deployment** skills in a practical, impactful way.
 
 
 ## 📘 About This Repository
